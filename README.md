@@ -2,7 +2,7 @@
 Statistic Electroacoustic Music Analyzer
 
 It extracts data from audio file into csv file.
-Focuses on understanding the piece's formal structure and timbral evolution.
+Focuses on understanding the piece's formal structure and timbral evolution using Gemini.
 Connects quantitative data to qualitative musical observations and concepts.
 Defines the features and provide their meaning in an electroacoustic context:
 - RMS Energy: Overall loudness/intensity.
