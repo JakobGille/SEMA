@@ -341,3 +341,4 @@ Future work could involve:
 --- Conclusion ---
 The quantitative analysis of '.\Karel Goeyvaerts Composition No 5.wav', enhanced by AI-driven narrative interpretation, offers a powerful, data-informed perspective on its dynamic and timbral evolution and potential formal divisions. By diligently combining these objective metrics and AI-generated insights with rigorous aural analysis and theoretical frameworks, a profound and comprehensive understanding of the piece's intricate structure and sonic identity can be achieved.
 
+
